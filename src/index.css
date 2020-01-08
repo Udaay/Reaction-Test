@@ -9,3 +9,11 @@
   height: 50px;
   width: 50px;
 }
+
+#detail {
+  float: right;
+  top: 100px;
+  position: absolute;
+  left: 845px;
+  font-size: x-large;
+}
